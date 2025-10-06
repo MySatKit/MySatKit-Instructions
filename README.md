@@ -4,6 +4,9 @@
 
 # MySatKit-Instruction
 
+[🇺🇦 Перейти до інструкції ⇒](https://docs.google.com/document/d/1sSxvT3x3lQkosEWhSVNWyyEf3KM_03Fv_x-23UT_htw/edit?tab=t.bthg6whop2n6)  
+[🇺🇸 Go to instructions ⇒](https://docs.google.com/document/d/146EPTvLMzydpwUMsbJWAC3gcRO6yPDe3p8kIpxRUwU4/edit?tab=t.0)  
+
 **📓 We no longer store instruction files in this repository.**
 
 Now all the necessary information is in a single [interactive document "🛰️ MYSAT GUIDE"](https://docs.google.com/document/d/146EPTvLMzydpwUMsbJWAC3gcRO6yPDe3p8kIpxRUwU4/edit?tab=t.0) :
