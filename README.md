@@ -20,10 +20,10 @@ This online document is maintained and will continue to be updated.
 
 ---
 
-📵 Unfortunately, Google Documents are displayed incorrectly when using mobile devices, especially without the official application installed.
+📵 Unfortunately, Google Documents are displayed incorrectly on mobile devices, especially without the official application.
 
-Solution: 
-- use a PC (recommended);
+Solutions: 
+- open the instructions on the PC (recommended);
 - download the official Google Docs mobile application;
 - download the necessary pages of the guide in PDF format and read them as files.
 
